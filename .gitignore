@@ -1,0 +1,36 @@
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+
+# Local/editor files
+.vscode/
+.idea/
+.mplconfig/
+.pytest_cache/
+
+# Generated experiment outputs
+results/
+results_test/
+qd_baseline/
+qd_results/
+qd_results_test/
+qd_trial_run/
+
+# Logs and generated artifacts
+*.log
+*.jsonl
+*.tmp
+
+# Private/local notes
+CLAUDE.md
+dev_log.md
+numbers.md
+tech_question.md
+ethar_thesis/
+papers/
+.agents/
+.codex/
