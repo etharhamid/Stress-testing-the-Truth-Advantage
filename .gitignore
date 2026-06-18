@@ -25,12 +25,4 @@ qd_trial_run/
 *.jsonl
 *.tmp
 
-# Private/local notes
-CLAUDE.md
-dev_log.md
-numbers.md
-tech_question.md
-ethar_thesis/
-papers/
-.agents/
-.codex/
+
